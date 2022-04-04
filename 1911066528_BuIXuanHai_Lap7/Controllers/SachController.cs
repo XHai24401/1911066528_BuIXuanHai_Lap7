@@ -25,7 +25,7 @@ namespace _1911066528_BuIXuanHai_Lap7.Controllers
             if (sach == null)
             {
                 return NotFound();
-                
+
             }
             return Ok(sach);
         }
